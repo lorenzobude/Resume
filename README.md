@@ -15,7 +15,7 @@ Skilled in creating engaging brand identities, responsive websites, marketing la
 
 ### Municipal Web Services Inc. (Muniweb) — USA
 **Web Designer & Frontend Developer | 2021 – Present**  
-*Remote*
+Remote
 
 - Designed and developed 50+ customer-facing municipal websites serving over 50,000 residents, powered by Umbraco CMS.
 - Translated visual concepts and UX requirements into responsive, accessible web experiences.
@@ -24,7 +24,7 @@ Skilled in creating engaging brand identities, responsive websites, marketing la
 
 ### Würth Srl — Italy
 **Web Designer & Frontend Developer | April – September 2021**  
-*On-site*
+On-site
 
 - Designed and developed enterprise WordPress websites and marketing landing pages aligned with corporate brand guidelines.
 - Created promotional digital experiences to support product marketing and sales initiatives.
@@ -33,7 +33,7 @@ Skilled in creating engaging brand identities, responsive websites, marketing la
 
 ### Dinova Srl — Italy
 **Web Designer & Frontend Developer | 2010 – 2019**  
-*On-site*
+On-site
 
 - Designed and developed dozens of corporate websites and digital platforms using Kentico CMS and WordPress.
 - Created custom website themes and responsive layouts, combining visual design with frontend development.
