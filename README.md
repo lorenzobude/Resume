@@ -1,5 +1,4 @@
-# Lorenzo Bude
-**Web Designer & Frontend Developer**
+**LORENZO BUDE - Web Designer & Frontend Developer**
 
 📍 Trento, Italy  
 📞 +39 349 721 2138  
